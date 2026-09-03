@@ -1,0 +1,7 @@
+{
+  "name": "برا السالفة",
+  "description": "مجموعة ألعاب الجلسات الجماعية: برا السالفة، القنبلة الموقوتة، صراحة أو جرأة، وتمثيل بدون كلام",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
